@@ -97,22 +97,31 @@ print("\nLenght of X_test ",len(X_test))
 ```
 ## OUTPUT:
 Reading Data
+
 ![image](https://github.com/user-attachments/assets/ab4d674e-c2b0-4c31-9cd6-13bc6c9a6c6e)
 Duplicates Identification
+
 ![image](https://github.com/user-attachments/assets/4cee307e-652c-4b55-8223-cbf2c87a73b0)
 Values of 'Y'
+
 ![image](https://github.com/user-attachments/assets/0abacebf-b5f5-483e-9710-a40dffef20a5)
 Outliers
+
 ![image](https://github.com/user-attachments/assets/cf76f74a-2243-4aac-8218-f08121735ecf)
 Checking datasets after dropping string values data from dataset
+
 ![image](https://github.com/user-attachments/assets/754e830b-5933-4767-97a6-49366ce2724f)
 Normalize the dataset
+
 ![image](https://github.com/user-attachments/assets/4029d204-8e67-4508-b489-464bc4102f7f)
 Split the dataset
+
 ![image](https://github.com/user-attachments/assets/564e15a0-263d-43d0-952f-cbbf15e42f7e)
 Training the Model
+
 ![image](https://github.com/user-attachments/assets/b4da8a5d-e215-4b97-a4ad-c280844019f3)
 Testing the Model
+
 ![image](https://github.com/user-attachments/assets/11ebc34e-48ed-4988-84ce-8106841c56a7)
 
 ## RESULT:
