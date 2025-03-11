@@ -39,7 +39,6 @@ STEP 6:Splitting the data into test and train<BR>
 ##  PROGRAM:
 ## Import Libraries
 ```
-from google.colab import files
 import pandas as pd
 import seaborn as sns
 import io
