@@ -98,23 +98,23 @@ print("\nLenght of X_test ",len(X_test))
 ```
 ## OUTPUT:
 ## Reading Data
-![image](https://github.com/user-attachments/assets/ab4d674e-c2b0-4c31-9cd6-13bc6c9a6c6e)
-## Duplicates Identification
-![image](https://github.com/user-attachments/assets/4cee307e-652c-4b55-8223-cbf2c87a73b0)
-## Values of 'Y'
+![image](https://github.com/user-attachments/assets/9f0ccc78-1ef5-4fc9-9a3c-9bbe2080867f)
+## Values of X and Y
+![image](https://github.com/user-attachments/assets/2377e317-0c59-4e8f-9617-3d259bce6528)
+## Check for outliers
 ![image](https://github.com/user-attachments/assets/0abacebf-b5f5-483e-9710-a40dffef20a5)
 ## Outliers
-![image](https://github.com/user-attachments/assets/cf76f74a-2243-4aac-8218-f08121735ecf)
-## Checking datasets after dropping string values data from dataset
-![image](https://github.com/user-attachments/assets/754e830b-5933-4767-97a6-49366ce2724f)
+![image](https://github.com/user-attachments/assets/1e45f1cb-ed30-4829-8582-08469565023b)
+## Check the missing data
+![image](https://github.com/user-attachments/assets/1dcd233e-1ddc-4f06-9fc0-fa9881068163)
+## Checking for duplicates
+![image](https://github.com/user-attachments/assets/e405e9af-cfff-4d87-9002-1dc6920981af)
+## Dropping string value from dataset
+![image](https://github.com/user-attachments/assets/658235b6-bd04-4e11-9b16-15c39ffbedfa)
 ## Normalize the dataset
-![image](https://github.com/user-attachments/assets/4029d204-8e67-4508-b489-464bc4102f7f)
-## Split the dataset
-![image](https://github.com/user-attachments/assets/564e15a0-263d-43d0-952f-cbbf15e42f7e)
-## Training the Model
-![image](https://github.com/user-attachments/assets/b4da8a5d-e215-4b97-a4ad-c280844019f3)
-## Testing the Model
-![image](https://github.com/user-attachments/assets/11ebc34e-48ed-4988-84ce-8106841c56a7)
+![image](https://github.com/user-attachments/assets/23818dff-44a9-402b-a956-53348ef36152)
+## Training and testing the model
+![image](https://github.com/user-attachments/assets/580c19b1-1929-4a35-8e02-37c2c807b7fb)
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
