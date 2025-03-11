@@ -54,36 +54,38 @@ import numpy as np
 df=pd.read_csv("Churn_Modelling.csv")
 print(df)
 ```
-## Check the missing data
+## Values of X and Y
 ```
-df.isnull().sum()
-df.duplicated()
-```
-## Assigning Y
-```
-y = df.iloc[:, -1].values
+X=df.iloc[:,:-1].values
+y=df.iloc[:,-1].values
+print(X)
 print(y)
 ```
 ## Check for outliers
 ```
 df.describe()
 ```
+## Check the missing data
+```
+print(df.isnull().sum())
+df.fillna(df.mean().round(1), inplace=True)
+print(df.isnull().sum())
+y = df.iloc[:, -1].values
+print(y)
+```
+## Checking for duplicates
+```
+df.duplicated()
+```
 ## Dropping string value from dataset
 ```
-data.head()
+data = df.drop(['Surname', 'Geography','Gender'], axis=1)
 ```
 ## Normalize the dataset
 ```
 scaler=MinMaxScaler()
 df1=pd.DataFrame(scaler.fit_transform(data))
 print(df1)
-```
-## Split the dataset
-```
-X=df.iloc[:,:-1].values
-y=df.iloc[:,-1].values
-print(X)
-print(y)
 ```
 ## Training and testing the model
 ```
