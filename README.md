@@ -101,8 +101,6 @@ print("\nLenght of X_test ",len(X_test))
 ![image](https://github.com/user-attachments/assets/9f0ccc78-1ef5-4fc9-9a3c-9bbe2080867f)
 ## Values of X and Y
 ![image](https://github.com/user-attachments/assets/2377e317-0c59-4e8f-9617-3d259bce6528)
-## Check for outliers
-![image](https://github.com/user-attachments/assets/0abacebf-b5f5-483e-9710-a40dffef20a5)
 ## Outliers
 ![image](https://github.com/user-attachments/assets/1e45f1cb-ed30-4829-8582-08469565023b)
 ## Check the missing data
